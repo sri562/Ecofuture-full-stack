@@ -1,6 +1,5 @@
 import React from 'react';
-import Title from '../Components/Title';
-import NewsLetterBox from '../Components/NewsLetterBox';
+
 
 const Events = () => {
   return (
