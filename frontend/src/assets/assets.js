@@ -145,6 +145,7 @@ export const assets = {
 
 
 }
+export const url = "https://ecofuture-full-stack.onrender.com";
 
 export const products = [
     {

@@ -1,5 +1,4 @@
 import { assets } from '../assets/assets';
-import NewsLetterBox from '../Components/NewsLetterBox';
 import Title from '../Components/Title';
 import { useState } from 'react';
 
