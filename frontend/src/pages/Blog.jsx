@@ -1,5 +1,4 @@
 import React from 'react';
-import Title from '../Components/Title';
 
 // Importing images
 import blog1 from '../assets/blog1.png';
