@@ -1,5 +1,4 @@
 import { assets } from '../assets/assets';
-import Title from '../Components/Title';
 import { useState } from 'react';
 
 const stores = [
