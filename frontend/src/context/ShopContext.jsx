@@ -7,6 +7,7 @@ export const ShopContext = createContext();
 
 const ShopContextProvider = (props) => {
   const [user, setUser] = useState(null); // User state to store logged-in user details
+  const backendUrl = "https://ecofuture-full-stack.onrender.com";
   const [token, setToken] = useState('');
   const [products, setProducts] = useState([]);
   const [cartItems, setCartItems] = useState({});
